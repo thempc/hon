@@ -770,8 +770,5 @@ Check out the [project on GitHub](https://github.com/Andre0512/hon), every contr
 * [Issues](https://github.com/Andre0512/hon/issues)
 
 ## Support
-If you find this project helpful and would like to support its development, you can buy me a coffee! ☕
-
+Buy the original author if this plugin some coffee.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/andre0512)
-
-Don't forget to star the repository if you found it useful! ⭐
